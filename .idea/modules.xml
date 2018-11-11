@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/java-da-alpha.iml" filepath="$PROJECT_DIR$/java-da-alpha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigDataAnalysis.iml" filepath="$PROJECT_DIR$/BigDataAnalysis.iml" />
     </modules>
   </component>
 </project>
