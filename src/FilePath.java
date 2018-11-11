@@ -3,15 +3,15 @@ public class FilePath {
     /**
      * 读入的日志文件位置
      *
-     * @param logFile
+     * @param logFile String
      */
-    public static String logFile = "/Users/zhaohao/PycharmProjects/Test1/venv/include/access_log_size_1000000.txt";
+    public static String logFile = "/Users/zhaohao/Downloads/JAVA赛题2大数据材料/data.log.20180717.3";
 
     /**
-     * 读入的IP地址段文件位置
+     * 读入的全球IP地址数据库
      *
-     * @param ipRangeFile
+     * @param ipFile String
      */
-    public static String ipRangeFile = "/Users/zhaohao/Downloads/测试用例使用的IP地址段.txt";
+    public static String ipFile = "/Users/zhaohao/Git/BigDataAnalysis/src/resources/ipDatabase.datx";
 
 }
